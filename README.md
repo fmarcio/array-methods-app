@@ -1,4 +1,4 @@
-# Instagram Clone - Form and Profile :computer:
+# Array methods App :computer:
 
 Project made to practice some essential array methods: _map()_, _forEach()_, _reduce()_, _filter()_, _sort()_.
 It's a simple app that fetches fake data about users and their wealth. Made with HTML, CSS and Vanilla JS.  
